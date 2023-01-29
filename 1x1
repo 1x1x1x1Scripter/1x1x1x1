@@ -1,0 +1,774 @@
+-- Script By: ElGamer21_YT & Gamerealxl
+-- Estate: On
+-- Update: 29/01/2023
+
+-- Thanks for Use :D!
+
+--[[
+<> ----------- <> -------------------------- <>
+<> --       -- <> --                      -- <>
+<> -- V 2.1 -- <> -- V 2.2 Coming Soon... -- <>
+<> --       -- <> --                      -- <>
+<> ----------- <> -------------------------- <>
+]]
+
+-- Instances:
+
+local _1x1x1x1 = Instance.new("ScreenGui")
+local Exploit = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Title = Instance.new("ImageLabel")
+local UICorner_2 = Instance.new("UICorner")
+local TextLabel = Instance.new("TextLabel")
+local Buttons = Instance.new("Folder")
+local Social = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local Credits = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local Soon = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local Hacks = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local Frames = Instance.new("Folder")
+local Hacks_2 = Instance.new("Frame")
+local UICorner_7 = Instance.new("UICorner")
+local Title_2 = Instance.new("ImageLabel")
+local UICorner_8 = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local Close = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
+local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+local Buttons_2 = Instance.new("Folder")
+local Sky = Instance.new("TextButton")
+local UICorner_10 = Instance.new("UICorner")
+local Night = Instance.new("TextButton")
+local UICorner_11 = Instance.new("UICorner")
+local TMusic = Instance.new("TextButton")
+local UICorner_12 = Instance.new("UICorner")
+local FF = Instance.new("TextButton")
+local UICorner_13 = Instance.new("UICorner")
+local Credits_2 = Instance.new("Frame")
+local UICorner_14 = Instance.new("UICorner")
+local Title_3 = Instance.new("ImageLabel")
+local UICorner_15 = Instance.new("UICorner")
+local TextLabel_3 = Instance.new("TextLabel")
+local Close_2 = Instance.new("TextButton")
+local UICorner_16 = Instance.new("UICorner")
+local UIAspectRatioConstraint_2 = Instance.new("UIAspectRatioConstraint")
+local Shadow = Instance.new("ImageLabel")
+local UICorner_17 = Instance.new("UICorner")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local Text = Instance.new("TextLabel")
+local Name = Instance.new("TextLabel")
+local UICorner_18 = Instance.new("UICorner")
+local Text_2 = Instance.new("TextLabel")
+local Name_2 = Instance.new("TextLabel")
+local UICorner_19 = Instance.new("UICorner")
+local Text_3 = Instance.new("TextLabel")
+local Name_3 = Instance.new("TextLabel")
+local UICorner_20 = Instance.new("UICorner")
+local Name_4 = Instance.new("TextLabel")
+local UICorner_21 = Instance.new("UICorner")
+local Text_4 = Instance.new("TextLabel")
+local Name_5 = Instance.new("TextLabel")
+local UICorner_22 = Instance.new("UICorner")
+local Text_5 = Instance.new("TextLabel")
+local Name_6 = Instance.new("TextLabel")
+local UICorner_23 = Instance.new("UICorner")
+local Text_6 = Instance.new("TextLabel")
+local Social_2 = Instance.new("Frame")
+local UICorner_24 = Instance.new("UICorner")
+local Title_4 = Instance.new("ImageLabel")
+local UICorner_25 = Instance.new("UICorner")
+local TextLabel_4 = Instance.new("TextLabel")
+local Close_3 = Instance.new("TextButton")
+local UICorner_26 = Instance.new("UICorner")
+local UIAspectRatioConstraint_3 = Instance.new("UIAspectRatioConstraint")
+local Text_7 = Instance.new("Folder")
+local Text_8 = Instance.new("TextLabel")
+local Name_7 = Instance.new("TextLabel")
+local UICorner_27 = Instance.new("UICorner")
+local Name_8 = Instance.new("TextLabel")
+local UICorner_28 = Instance.new("UICorner")
+local Text_9 = Instance.new("TextLabel")
+local Text_10 = Instance.new("TextLabel")
+local Name_9 = Instance.new("TextLabel")
+local UICorner_29 = Instance.new("UICorner")
+local Open = Instance.new("ImageButton")
+local UIAspectRatioConstraint_4 = Instance.new("UIAspectRatioConstraint")
+local UICorner_30 = Instance.new("UICorner")
+
+--Properties:
+
+_1x1x1x1.Name = "1x1x1x1"
+_1x1x1x1.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+_1x1x1x1.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Exploit.Name = "Exploit"
+Exploit.Parent = _1x1x1x1
+Exploit.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Exploit.Position = UDim2.new(-1.49699998, 0, 0.240999997, 0)
+Exploit.Size = UDim2.new(0.408114552, 0, 0.428846151, 0)
+
+UICorner.CornerRadius = UDim.new(0.100000001, 8)
+UICorner.Parent = Exploit
+
+Title.Name = "Title"
+Title.Parent = Exploit
+Title.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Title.Position = UDim2.new(0.132394373, 0, -0.11811024, 0)
+Title.Size = UDim2.new(0.763157904, 0, 0.260089695, 0)
+
+UICorner_2.CornerRadius = UDim.new(0.899999976, 8)
+UICorner_2.Parent = Title
+
+TextLabel.Parent = Title
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0, 0, 0.068965517, 0)
+TextLabel.Size = UDim2.new(1, 0, 0.862068951, 0)
+TextLabel.Font = Enum.Font.FredokaOne
+TextLabel.Text = "1x1x1x1 Hack"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+Buttons.Name = "Buttons"
+Buttons.Parent = Exploit
+
+Social.Name = "Social"
+Social.Parent = Buttons
+Social.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Social.Position = UDim2.new(0.529577494, 0, 0.208661422, 0)
+Social.Size = UDim2.new(0.441520482, 0, 0.179372191, 0)
+Social.Font = Enum.Font.FredokaOne
+Social.Text = "Social"
+Social.TextColor3 = Color3.fromRGB(255, 255, 255)
+Social.TextScaled = true
+Social.TextSize = 14.000
+Social.TextWrapped = true
+
+Social.MouseButton1Click:Connect(function()
+	script.Parent.Parent.Parent.Frames.Social.Visible = true
+end)
+
+UICorner_3.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_3.Parent = Social
+
+Credits.Name = "Credits"
+Credits.Parent = Buttons
+Credits.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Credits.Position = UDim2.new(0.0507042408, 0, 0.42125985, 0)
+Credits.Size = UDim2.new(0.441520482, 0, 0.179372191, 0)
+Credits.Font = Enum.Font.FredokaOne
+Credits.Text = "Credits"
+Credits.TextColor3 = Color3.fromRGB(255, 255, 255)
+Credits.TextScaled = true
+Credits.TextSize = 14.000
+Credits.TextWrapped = true
+
+Credits.MouseButton1Click:Connect(function()
+	script.Parent.Parent.Parent.Frames.Credits.Visible = true
+end)
+
+UICorner_4.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_4.Parent = Credits
+
+Soon.Name = "Soon"
+Soon.Parent = Buttons
+Soon.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Soon.Position = UDim2.new(0.529577494, 0, 0.42125985, 0)
+Soon.Size = UDim2.new(0.441520482, 0, 0.179372191, 0)
+Soon.Font = Enum.Font.FredokaOne
+Soon.Text = "Coming Soon..."
+Soon.TextColor3 = Color3.fromRGB(255, 255, 255)
+Soon.TextScaled = true
+Soon.TextSize = 14.000
+Soon.TextWrapped = true
+
+UICorner_5.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_5.Parent = Soon
+
+Hacks.Name = "Hacks"
+Hacks.Parent = Buttons
+Hacks.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Hacks.Position = UDim2.new(0.0507042259, 0, 0.208661422, 0)
+Hacks.Size = UDim2.new(0.441520482, 0, 0.179372191, 0)
+Hacks.Font = Enum.Font.FredokaOne
+Hacks.Text = "Hacks"
+Hacks.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hacks.TextScaled = true
+Hacks.TextSize = 14.000
+Hacks.TextWrapped = true
+
+Hacks.MouseButton1Click:Connect(function()
+	script.Parent.Parent.Parent.Frames.Hacks.Visible = true
+end)
+
+UICorner_6.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_6.Parent = Hacks
+
+Frames.Name = "Frames"
+Frames.Parent = Exploit
+
+Hacks_2.Name = "Hacks"
+Hacks_2.Parent = Frames
+Hacks_2.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Hacks_2.Size = UDim2.new(0.997076035, 0, 1, 0)
+Hacks_2.Visible = false
+
+UICorner_7.CornerRadius = UDim.new(0.100000001, 8)
+UICorner_7.Parent = Hacks_2
+
+Title_2.Name = "Title"
+Title_2.Parent = Hacks_2
+Title_2.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Title_2.Position = UDim2.new(0.132394373, 0, -0.11811024, 0)
+Title_2.Size = UDim2.new(0.76539588, 0, 0.260089695, 0)
+
+UICorner_8.CornerRadius = UDim.new(0.899999976, 8)
+UICorner_8.Parent = Title_2
+
+TextLabel_2.Parent = Title_2
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0, 0, 0.068965517, 0)
+TextLabel_2.Size = UDim2.new(1, 0, 0.862068892, 0)
+TextLabel_2.Font = Enum.Font.FredokaOne
+TextLabel_2.Text = "Hacks 1x1x1x1"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 14.000
+TextLabel_2.TextWrapped = true
+
+Close.Name = "Close"
+Close.Parent = Hacks_2
+Close.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Close.Position = UDim2.new(0.938416362, 0, -0.0807174891, 0)
+Close.Size = UDim2.new(0.120234601, 0, 0.183856502, 0)
+Close.Font = Enum.Font.FredokaOne
+Close.Text = "X"
+Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close.TextScaled = true
+Close.TextSize = 14.000
+Close.TextWrapped = true
+
+Close.MouseButton1Click:Connect(function()
+	script.Parent.Parent.Visible = false
+end)
+
+UICorner_9.CornerRadius = UDim.new(0.899999976, 8)
+UICorner_9.Parent = Close
+
+UIAspectRatioConstraint.Parent = Close
+
+Buttons_2.Name = "Buttons"
+Buttons_2.Parent = Hacks_2
+
+Sky.Name = "Sky"
+Sky.Parent = Buttons_2
+Sky.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Sky.Position = UDim2.new(0.0448391214, 0, 0.22659865, 0)
+Sky.Size = UDim2.new(0.442815244, 0, 0.179372191, 0)
+Sky.Font = Enum.Font.FredokaOne
+Sky.Text = "Sky"
+Sky.TextColor3 = Color3.fromRGB(255, 255, 255)
+Sky.TextScaled = true
+Sky.TextSize = 14.000
+Sky.TextWrapped = true
+
+Sky.MouseButton1Click:Connect(function()
+	local Lighting = game:GetService("Lighting")
+	local Skys = Instance.new("Sky")
+	Skys.Name = "Hacked"
+	Skys.Parent = Lighting
+	Skys.MoonTextureId = 1243374078
+	Skys.SkyboxBk = 1243374078
+	Skys.SkyboxDn = 1243374078
+	Skys.SkyboxFt = 1243374078
+	Skys.SkyboxLf = 1243374078
+	Skys.SkyboxRt = 1243374078
+	Skys.SkyboxUp = 1243374078
+	Lighting.ClockTime = 14.5
+end)
+
+UICorner_10.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_10.Parent = Sky
+
+Night.Name = "Night"
+Night.Parent = Buttons_2
+Night.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Night.Position = UDim2.new(0.511114776, 0, 0.22659865, 0)
+Night.Size = UDim2.new(0.442815244, 0, 0.179372191, 0)
+Night.Font = Enum.Font.FredokaOne
+Night.Text = "Night"
+Night.TextColor3 = Color3.fromRGB(255, 255, 255)
+Night.TextScaled = true
+Night.TextSize = 14.000
+Night.TextWrapped = true
+
+Night.MouseButton1Click:Connect(function()
+	local Lighting = game:GetService("Lighting")
+	Lighting.ClockTime = 0
+end)
+
+UICorner_11.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_11.Parent = Night
+
+TMusic.Name = "TMusic"
+TMusic.Parent = Buttons_2
+TMusic.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+TMusic.Position = UDim2.new(0.044839114, 0, 0.446329594, 0)
+TMusic.Size = UDim2.new(0.442815244, 0, 0.179372191, 0)
+TMusic.Font = Enum.Font.FredokaOne
+TMusic.Text = "Terror Music"
+TMusic.TextColor3 = Color3.fromRGB(255, 255, 255)
+TMusic.TextScaled = true
+TMusic.TextSize = 14.000
+TMusic.TextWrapped = true
+
+TMusic.MouseButton1Click:Connect(function()
+	local SoundService = game:GetService("SoundService")
+	local Sound = Instance.new("Sound")
+	Sound.Parent = SoundService
+	Sound.Name = "Hacked"
+	Sound.PlayOnRemove = true
+	Sound.SoundId = 1836716091
+	Sound.Looped = true
+	Sound.Playing = true
+	Sound.Volume = 1
+end)
+
+UICorner_12.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_12.Parent = TMusic
+
+FF.Name = "FF"
+FF.Parent = Buttons_2
+FF.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+FF.Position = UDim2.new(0.511114776, 0, 0.446329594, 0)
+FF.Size = UDim2.new(0.442815244, 0, 0.179372191, 0)
+FF.Font = Enum.Font.FredokaOne
+FF.Text = "FF"
+FF.TextColor3 = Color3.fromRGB(255, 255, 255)
+FF.TextScaled = true
+FF.TextSize = 14.000
+FF.TextWrapped = true
+
+local eindbaasx = false
+
+FF.MouseButton1Click:Connect(function()
+	local eindbaasx = false
+
+script.Parent.MouseButton1Click:Connect(function()
+	local Player = game.Players.LocalPlayer
+	if eindbaasx == false then
+		eindbaasx = true
+		ff = Instance.new("ForceField", Player.Character)
+	elseif eindbaasx == true then
+		ff:Remove()
+		eindbaasx = false
+	end
+end)
+
+UICorner_13.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_13.Parent = FF
+
+Credits_2.Name = "Credits"
+Credits_2.Parent = Frames
+Credits_2.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Credits_2.Position = UDim2.new(-1.06725144, 0, 0.0403587446, 0)
+Credits_2.Size = UDim2.new(0.997076035, 0, 1, 0)
+Credits_2.Visible = false
+
+UICorner_14.CornerRadius = UDim.new(0.100000001, 8)
+UICorner_14.Parent = Credits_2
+
+Title_3.Name = "Title"
+Title_3.Parent = Credits_2
+Title_3.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Title_3.Position = UDim2.new(0.132394373, 0, -0.11811024, 0)
+Title_3.Size = UDim2.new(0.76539588, 0, 0.260089695, 0)
+
+UICorner_15.CornerRadius = UDim.new(0.899999976, 8)
+UICorner_15.Parent = Title_3
+
+TextLabel_3.Parent = Title_3
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 1.000
+TextLabel_3.Position = UDim2.new(0, 0, 0.068965517, 0)
+TextLabel_3.Size = UDim2.new(1, 0, 0.862068892, 0)
+TextLabel_3.Font = Enum.Font.FredokaOne
+TextLabel_3.Text = "1x1x1x1 Credits"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextScaled = true
+TextLabel_3.TextSize = 14.000
+TextLabel_3.TextWrapped = true
+
+Close_2.Name = "Close"
+Close_2.Parent = Credits_2
+Close_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Close_2.Position = UDim2.new(0.938416362, 0, -0.0807174891, 0)
+Close_2.Size = UDim2.new(0.120234601, 0, 0.183856502, 0)
+Close_2.Font = Enum.Font.FredokaOne
+Close_2.Text = "X"
+Close_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close_2.TextScaled = true
+Close_2.TextSize = 14.000
+Close_2.TextWrapped = true
+	
+Close_2.MouseButton1Click:Connect(function()
+	script.Parent.Parent.Visible = false
+end)
+
+UICorner_16.CornerRadius = UDim.new(0.899999976, 8)
+UICorner_16.Parent = Close_2
+
+UIAspectRatioConstraint_2.Parent = Close_2
+
+Shadow.Name = "Shadow"
+Shadow.Parent = Credits_2
+Shadow.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Shadow.Position = UDim2.new(0.0293255132, 0, 0.206278026, 0)
+Shadow.Size = UDim2.new(0.935483873, 0, 0.748878896, 0)
+
+UICorner_17.Parent = Shadow
+
+ScrollingFrame.Parent = Credits_2
+ScrollingFrame.Active = true
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+ScrollingFrame.BackgroundTransparency = 1.000
+ScrollingFrame.BorderSizePixel = 0
+ScrollingFrame.Position = UDim2.new(0.0293255132, 0, 0.206278026, 0)
+ScrollingFrame.Size = UDim2.new(0.938416421, 0, 0.753363252, 0)
+ScrollingFrame.ScrollBarThickness = 6
+
+Text.Name = "Text"
+Text.Parent = ScrollingFrame
+Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text.BackgroundTransparency = 1.000
+Text.Position = UDim2.new(0.0111528598, 0, 0.0241224468, 0)
+Text.Size = UDim2.new(0, 158, 0, 42)
+Text.Font = Enum.Font.FredokaOne
+Text.Text = "UI Designer"
+Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text.TextScaled = true
+Text.TextSize = 14.000
+Text.TextWrapped = true
+
+Name.Name = "Name"
+Name.Parent = ScrollingFrame
+Name.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Name.Position = UDim2.new(0.535841167, 0, 0.0236805752, 0)
+Name.Size = UDim2.new(0, 138, 0, 42)
+Name.Font = Enum.Font.FredokaOne
+Name.Text = "ElGamer21_YT"
+Name.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name.TextScaled = true
+Name.TextSize = 14.000
+Name.TextWrapped = true
+
+UICorner_18.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_18.Parent = Name
+
+Text_2.Name = "Text"
+Text_2.Parent = ScrollingFrame
+Text_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_2.BackgroundTransparency = 1.000
+Text_2.Position = UDim2.new(0.0111528598, 0, 0.138472229, 0)
+Text_2.Size = UDim2.new(0, 158, 0, 42)
+Text_2.Font = Enum.Font.FredokaOne
+Text_2.Text = "Idea"
+Text_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_2.TextScaled = true
+Text_2.TextSize = 14.000
+Text_2.TextWrapped = true
+
+Name_2.Name = "Name"
+Name_2.Parent = ScrollingFrame
+Name_2.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Name_2.Position = UDim2.new(0.535841167, 0, 0.13803035, 0)
+Name_2.Size = UDim2.new(0, 138, 0, 42)
+Name_2.Font = Enum.Font.FredokaOne
+Name_2.Text = "ElGamer21_YT"
+Name_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_2.TextScaled = true
+Name_2.TextSize = 14.000
+Name_2.TextWrapped = true
+
+UICorner_19.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_19.Parent = Name_2
+
+Text_3.Name = "Text"
+Text_3.Parent = ScrollingFrame
+Text_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_3.BackgroundTransparency = 1.000
+Text_3.Position = UDim2.new(0.0174028594, 0, 0.257306308, 0)
+Text_3.Size = UDim2.new(0, 158, 0, 42)
+Text_3.Font = Enum.Font.FredokaOne
+Text_3.Text = "Scripts"
+Text_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_3.TextScaled = true
+Text_3.TextSize = 14.000
+Text_3.TextWrapped = true
+
+Name_3.Name = "Name"
+Name_3.Parent = ScrollingFrame
+Name_3.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Name_3.Position = UDim2.new(0.542091191, 0, 0.256864429, 0)
+Name_3.Size = UDim2.new(0, 138, 0, 42)
+Name_3.Font = Enum.Font.FredokaOne
+Name_3.Text = "ElGamer21_YT"
+Name_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_3.TextScaled = true
+Name_3.TextSize = 14.000
+Name_3.TextWrapped = true
+
+UICorner_20.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_20.Parent = Name_3
+
+Name_4.Name = "Name"
+Name_4.Parent = ScrollingFrame
+Name_4.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Name_4.Position = UDim2.new(0.535841167, 0, 0.377940655, 0)
+Name_4.Size = UDim2.new(0, 138, 0, 42)
+Name_4.Font = Enum.Font.FredokaOne
+Name_4.Text = "Gamerealxl"
+Name_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_4.TextScaled = true
+Name_4.TextSize = 14.000
+Name_4.TextWrapped = true
+
+UICorner_21.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_21.Parent = Name_4
+
+Text_4.Name = "Text"
+Text_4.Parent = ScrollingFrame
+Text_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_4.BackgroundTransparency = 1.000
+Text_4.Position = UDim2.new(0.0111528598, 0, 0.378382534, 0)
+Text_4.Size = UDim2.new(0, 158, 0, 42)
+Text_4.Font = Enum.Font.FredokaOne
+Text_4.Text = "Scripts"
+Text_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_4.TextScaled = true
+Text_4.TextSize = 14.000
+Text_4.TextWrapped = true
+
+Name_5.Name = "Name"
+Name_5.Parent = ScrollingFrame
+Name_5.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Name_5.Position = UDim2.new(0.535841167, 0, 0.499016881, 0)
+Name_5.Size = UDim2.new(0, 138, 0, 42)
+Name_5.Font = Enum.Font.FredokaOne
+Name_5.Text = "ElGamer21_YT"
+Name_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_5.TextScaled = true
+Name_5.TextSize = 14.000
+Name_5.TextWrapped = true
+
+UICorner_22.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_22.Parent = Name_5
+
+Text_5.Name = "Text"
+Text_5.Parent = ScrollingFrame
+Text_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_5.BackgroundTransparency = 1.000
+Text_5.Position = UDim2.new(0.0111528598, 0, 0.49945876, 0)
+Text_5.Size = UDim2.new(0, 158, 0, 42)
+Text_5.Font = Enum.Font.FredokaOne
+Text_5.Text = "Script Testing"
+Text_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_5.TextScaled = true
+Text_5.TextSize = 14.000
+Text_5.TextWrapped = true
+
+Name_6.Name = "Name"
+Name_6.Parent = ScrollingFrame
+Name_6.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Name_6.Position = UDim2.new(0.535841167, 0, 0.617850959, 0)
+Name_6.Size = UDim2.new(0, 138, 0, 42)
+Name_6.Font = Enum.Font.FredokaOne
+Name_6.Text = "Gamerealxl"
+Name_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_6.TextScaled = true
+Name_6.TextSize = 14.000
+Name_6.TextWrapped = true
+
+UICorner_23.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_23.Parent = Name_6
+
+Text_6.Name = "Text"
+Text_6.Parent = ScrollingFrame
+Text_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_6.BackgroundTransparency = 1.000
+Text_6.Position = UDim2.new(0.0111528598, 0, 0.618292809, 0)
+Text_6.Size = UDim2.new(0, 158, 0, 42)
+Text_6.Font = Enum.Font.FredokaOne
+Text_6.Text = "Script Testing"
+Text_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_6.TextScaled = true
+Text_6.TextSize = 14.000
+Text_6.TextWrapped = true
+
+Social_2.Name = "Social"
+Social_2.Parent = Frames
+Social_2.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Social_2.Position = UDim2.new(-1.06725144, 0, 0.0403587446, 0)
+Social_2.Size = UDim2.new(0.997076035, 0, 1, 0)
+Social_2.Visible = false
+
+UICorner_24.CornerRadius = UDim.new(0.100000001, 8)
+UICorner_24.Parent = Social_2
+
+Title_4.Name = "Title"
+Title_4.Parent = Social_2
+Title_4.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Title_4.Position = UDim2.new(0.132394373, 0, -0.11811024, 0)
+Title_4.Size = UDim2.new(0.76539588, 0, 0.260089695, 0)
+
+UICorner_25.CornerRadius = UDim.new(0.899999976, 8)
+UICorner_25.Parent = Title_4
+
+TextLabel_4.Parent = Title_4
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0, 0, 0.068965517, 0)
+TextLabel_4.Size = UDim2.new(1, 0, 0.862068892, 0)
+TextLabel_4.Font = Enum.Font.FredokaOne
+TextLabel_4.Text = "1x1x1x1 Social"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextScaled = true
+TextLabel_4.TextSize = 14.000
+TextLabel_4.TextWrapped = true
+
+Close_3.Name = "Close"
+Close_3.Parent = Social_2
+Close_3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Close_3.Position = UDim2.new(0.938416362, 0, -0.0807174891, 0)
+Close_3.Size = UDim2.new(0.120234601, 0, 0.183856502, 0)
+Close_3.Font = Enum.Font.FredokaOne
+Close_3.Text = "X"
+Close_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close_3.TextScaled = true
+Close_3.TextSize = 14.000
+Close_3.TextWrapped = true
+
+Close_3.MouseButton1Click:Connect(function()
+	script.Parent.Parent.Visible = false
+end)
+
+UICorner_26.CornerRadius = UDim.new(0.899999976, 8)
+UICorner_26.Parent = Close_3
+
+UIAspectRatioConstraint_3.Parent = Close_3
+
+Text_7.Name = "Text"
+Text_7.Parent = Social_2
+
+Text_8.Name = "Text"
+Text_8.Parent = Text_7
+Text_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_8.BackgroundTransparency = 1.000
+Text_8.Position = UDim2.new(2.2373591e-08, 0, 0.234884828, 0)
+Text_8.Size = UDim2.new(0.442815214, 0, 0.184938803, 0)
+Text_8.Font = Enum.Font.FredokaOne
+Text_8.Text = "Discord"
+Text_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_8.TextScaled = true
+Text_8.TextSize = 14.000
+Text_8.TextWrapped = true
+
+Name_7.Name = "Name"
+Name_7.Parent = Text_7
+Name_7.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Name_7.Position = UDim2.new(0.442815244, 0, 0.234884858, 0)
+Name_7.Size = UDim2.new(0.524926662, 0, 0.184938803, 0)
+Name_7.Font = Enum.Font.FredokaOne
+Name_7.Text = "theunnammed#1768"
+Name_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_7.TextScaled = true
+Name_7.TextSize = 14.000
+Name_7.TextWrapped = true
+
+UICorner_27.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_27.Parent = Name_7
+
+Name_8.Name = "Name"
+Name_8.Parent = Text_7
+Name_8.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Name_8.Position = UDim2.new(0.442815244, 0, 0.459100097, 0)
+Name_8.Size = UDim2.new(0.524926662, 0, 0.184938803, 0)
+Name_8.Font = Enum.Font.FredokaOne
+Name_8.Text = "@1x1x1x1_Scripter"
+Name_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_8.TextScaled = true
+Name_8.TextSize = 14.000
+Name_8.TextWrapped = true
+
+UICorner_28.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_28.Parent = Name_8
+
+Text_9.Name = "Text"
+Text_9.Parent = Text_7
+Text_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_9.BackgroundTransparency = 1.000
+Text_9.Position = UDim2.new(2.2373591e-08, 0, 0.459100068, 0)
+Text_9.Size = UDim2.new(0.442815214, 0, 0.184938803, 0)
+Text_9.Font = Enum.Font.FredokaOne
+Text_9.Text = "Twitter"
+Text_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_9.TextScaled = true
+Text_9.TextSize = 14.000
+Text_9.TextWrapped = true
+
+Text_10.Name = "Text"
+Text_10.Parent = Text_7
+Text_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text_10.BackgroundTransparency = 1.000
+Text_10.Position = UDim2.new(2.2373591e-08, 0, 0.687799692, 0)
+Text_10.Size = UDim2.new(0.442815214, 0, 0.184938803, 0)
+Text_10.Font = Enum.Font.FredokaOne
+Text_10.Text = "Discord Group"
+Text_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Text_10.TextScaled = true
+Text_10.TextSize = 14.000
+Text_10.TextWrapped = true
+
+Name_9.Name = "Name"
+Name_9.Parent = Text_7
+Name_9.BackgroundColor3 = Color3.fromRGB(66, 66, 67)
+Name_9.Position = UDim2.new(0.442815244, 0, 0.687799692, 0)
+Name_9.Size = UDim2.new(0.539589405, 0, 0.184938803, 0)
+Name_9.Font = Enum.Font.FredokaOne
+Name_9.Text = "Coming Soon..."
+Name_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name_9.TextScaled = true
+Name_9.TextSize = 14.000
+Name_9.TextWrapped = true
+
+UICorner_29.CornerRadius = UDim.new(0.200000003, 8)
+UICorner_29.Parent = Name_9
+
+Open.Name = "Open"
+Open.Parent = _1x1x1x1
+Open.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Open.Position = UDim2.new(0.926014304, 0, 0.198076919, 0)
+Open.Size = UDim2.new(0.0608591884, 0, 0.0980769247, 0)
+Open.Image = "http://www.roblox.com/asset/?id=6862780932"
+	
+local boton = script.Parent
+local frame = script.Parent.Parent.Exploit
+
+Open.MouseButton1Click:Connect(function()
+	if frame.Position == UDim2.new(-1.497, 0,0.241, 0) then
+		frame:TweenPosition(UDim2.new(0.497, 0,0.241, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Back, 1)
+	elseif frame.Position == UDim2.new(0.497, 0,0.241, 0) then
+		frame:TweenPosition(UDim2.new(-1.497, 0,0.241, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Back, 1)
+	end
+end)
+
+UIAspectRatioConstraint_4.Parent = Open
+
+UICorner_30.CornerRadius = UDim.new(0.100000001, 8)
+UICorner_30.Parent = Open
